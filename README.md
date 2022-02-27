@@ -21,7 +21,7 @@
 ### My GitHub Stats
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulioGoes&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulioGoes&hide=TeX&layout=compact&theme=dark)
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=JulioGoes&show_icons=true&theme=gotham)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=JulioGoes&show_icons=true&theme=dark)
