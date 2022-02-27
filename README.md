@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/julliogoes/"><img alt="Linkedin" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
 </p>
 
-### About Me
+### About Me o/
 
 - 🔭 I’m currently working on [Old Dragon RPG App](https://github.com/JulioGoes/old_dragon_app);
 - 🌱 I’m currently learning Python, Django, Data Science Libs, Java and SQL (MySQL/SQLite);
@@ -21,7 +21,7 @@
 ### My GitHub Stats
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulioGoes&hide=TeX&layout=compact&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulioGoes&hide=TeX&layout=compact)
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=JulioGoes&show_icons=true&theme=gotham)
